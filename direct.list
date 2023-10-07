@@ -1,0 +1,14 @@
+PROCESS-NAME,aria2c.exe
+PROCESS-NAME,baidunetdisk.exe
+
+# XunLei
+PROCESS-NAME,Thunder.exe
+PROCESS-NAME,DownloadService.exe
+PROCESS-NAME,DownloadSDKServer.exe
+URL-REGEX,(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)
+
+# bt
+URL-REGEX,(api|ps|sv|offnavi|newvector|ulog.imap|newloc)(.map|).(baidu|n.shifen).com
+URL-REGEX,(.+.)?(torrent|announce.php?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=|xunlei)(..+)?
+
+
