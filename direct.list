@@ -1,30 +1,13 @@
 DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,ghproxy.com
-DOMAIN-SUFFIX,autohotkey.com
 DOMAIN-SUFFIX,tgfcer.com
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,kox.moe
 DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,bangumi.tv
-DOMAIN-SUFFIX,greasyfork.org
-DOMAIN-SUFFIX,sleazyfork.org
-DOMAIN-SUFFIX,vscode.dev
-
-# >> OneDrive
-DOMAIN-SUFFIX,1drv.com
-DOMAIN-SUFFIX,storage.live.com
-
-# >> Windows Server Update Services
-DOMAIN-SUFFIX,windowsupdate.microsoft.com
-DOMAIN-SUFFIX,update.microsoft.com
-DOMAIN-SUFFIX,windowsupdate.com
-DOMAIN,download.microsoft.com
-DOMAIN,wustat.windows.com
-DOMAIN,ntservicepack.microsoft.com
+DOMAIN-SUFFIX,epicgames.com
 
 PROCESS-NAME,aria2c.exe
 PROCESS-NAME,baidunetdisk.exe
-PROCESS-NAME,fileu.exe
 
 # XunLei
 PROCESS-NAME,Thunder.exe
